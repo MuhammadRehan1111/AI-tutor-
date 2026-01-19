@@ -1,0 +1,12 @@
+{
+    "name": "Student",
+    "subjects": [],
+    "weak_topics": [],
+    "completed_topics": [],
+    "history": [
+        {
+            "q": "hi",
+            "a": "Hi there, Student! I'm Tutor, your personal AI study buddy, and I'm super excited to help you learn! \ud83d\ude80\n\nI can help you master any subject by using your notes, books, or PDFs. Just upload them, and I'll build a personalized learning plan just for you! I'll also remember what we've covered and help you strengthen any weak spots.\n\nWhat's on your mind today? Do you have a specific subject you'd like to dive into, or perhaps some materials you'd like to upload? Let's tackle it together! \ud83d\ude0a"
+        }
+    ]
+}
